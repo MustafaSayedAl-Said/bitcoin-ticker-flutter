@@ -47,10 +47,5 @@ class CoinData {
     }
     return rateDatas;
   }
-  // factory CoinData.fromJson(Map <String, dynamic> json){
-  //   return CoinData(
-  //       currency: json['asset_id_quote'],
-  //       rate: json['rate']
-  //   );
-  // }
+
 }
